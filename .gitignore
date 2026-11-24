@@ -1,4 +1,9 @@
 credential.py
-
-  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
+.env
+*.db
+*.db-wal
+*.db-shm
+__pycache__/
+*.pyc
+venv/
+.venv/
